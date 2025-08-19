@@ -1,0 +1,5 @@
+# Tuples (immutable)
+colors = ("skyblue", "navy", "golden")
+print("Tuple:", colors)
+print("First color:", colors[0])
+print("Length of tuple:", len(colors))
